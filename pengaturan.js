@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Nayaka Studio",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
-    whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
+    googleApiKey: "AIzaSyDiaQ2HulHpnE9G62fjZ5iXkWJvvyRWNtI",
+    whatsappAdmin: "6282310381205" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
